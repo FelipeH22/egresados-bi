@@ -1,0 +1,4 @@
+id_tipo_documento,tipo_documento_abreviatura,nombre_tipo_documento
+1,CC,"Cédula de Ciudadanía"
+2,CE,"Cédula de Extranjería"
+3,PA,Pasaporte

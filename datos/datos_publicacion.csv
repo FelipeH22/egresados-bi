@@ -1,0 +1,1001 @@
+id_publicacion,titulo,publicadora,fecha_publicacion,id_linea_trabajo,id_egresado,id_profesor
+1,"Lille Fridolf and I",Grant-Zboncak,2017-09-09,2,959,47
+2,"Where the Truth Lies","Durgan, Marquardt and McCullough",2000-10-17,1,727,221
+3,"All in a Night's Work",Cremin-Waelchi,1991-06-05,5,204,60
+4,"Casting By","Becker Inc",2013-07-29,1,866,56
+5,"Elvira Madigan","Crona, Crona and Ullrich",1995-08-05,5,374,126
+6,"Presentation, or Charlotte and Her Steak (Présentation ou Charlotte et son steak)","Rippin Group",2008-08-30,6,101,98
+7,"Makioka Sisters, The (Sasame-yuki)","Daugherty and Sons",2020-10-13,6,593,14
+8,"Face (Visage)","Klocko, Donnelly and Weber",1993-02-21,6,248,58
+9,Resistance,"Carter Group",2019-11-22,1,675,236
+10,"June 9 ","Effertz Group",2012-12-06,4,131,158
+11,"To Wong Foo, Thanks for Everything! Julie Newmar","Reinger Inc",2009-12-23,3,884,63
+12,"Novena, The (La neuvaine)","Bartoletti Inc",2002-11-15,6,497,196
+13,"Saps at Sea","Halvorson, Davis and Keebler",1986-03-12,2,524,211
+14,"Yacoubian Building, The (Omaret yakobean)",Lehner-Ritchie,1988-06-18,3,400,139
+15,"Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders","Mann, Hauck and Schroeder",2001-12-10,6,460,108
+16,"Killer Joe","Johns LLC",2012-08-18,6,253,116
+17,"All American Chump","Koch, Kassulke and Bosco",2008-02-26,2,651,138
+18,"Purple Rose of Cairo, The",Glover-McGlynn,2020-11-01,3,306,191
+19,"Come Have Coffee with Us","Corkery LLC",2018-01-25,3,57,82
+20,"Hue and Cry","Bednar, Heathcote and Barrows",1996-02-08,2,644,66
+21,"Big Pun: The Legacy","Dickinson, Baumbach and Christiansen",2000-11-27,1,351,206
+22,"Manny & Lo",Stracke-Kohler,2009-04-03,1,776,50
+23,Princess,Koepp-White,2023-09-27,1,214,135
+24,"Dane Cook: Vicious Circle",Stokes-Grady,1992-11-03,5,991,172
+25,"French Twist (Gazon maudit)","Kilback Inc",1991-09-19,6,108,192
+26,"Kummelin jackpot","Lynch, Lesch and Hamill",2021-09-09,1,206,249
+27,"Sh! The Octopus","Walter and Sons",2004-01-27,5,209,234
+28,"Off and Running ","Hauck, Block and O'Conner",1993-04-03,1,11,173
+29,"Clear History","Larson Group",2017-02-24,6,718,108
+30,"The Good Son","Klein, Buckridge and Weber",1987-02-05,3,365,244
+31,"I Love You, I Love You (Je t'aime je t'aime)","Upton LLC",2004-03-01,2,976,80
+32,"Blue Chips","Kautzer, Schmidt and Johns",1992-01-05,4,410,175
+33,"Aristocrats, The",Lowe-Fritsch,2005-01-01,6,902,147
+34,Zotz!,Lindgren-Murray,2013-04-21,1,645,223
+35,"On His Own (a.k.a. My Apprenticeship) (V lyudyakh)",McGlynn-Denesik,2009-10-30,6,74,45
+36,"Black Legion","Glover, Rath and Nolan",2014-03-03,4,894,36
+37,"Forever Mine",Zemlak-Grimes,1992-10-30,1,251,14
+38,"The Chaos Class Failed the Class",Lowe-Wunsch,1991-10-31,4,667,120
+39,"Witchfinder General (Conquerer Worm, The)","Metz, Abernathy and Gerlach",1987-02-07,3,529,190
+40,"From B Movie to Cult Film: Western",Koss-Crona,2006-04-04,3,750,112
+41,"In the Army Now","Boehm, Macejkovic and Harber",2012-05-22,6,960,91
+42,"Room Service",Dare-Muller,2013-09-04,2,855,247
+43,"William Kunstler: Disturbing the Universe","Schumm and Sons",1985-05-26,3,908,46
+44,"Breakheart Pass",Grady-Torp,2009-08-20,6,978,136
+45,"Gold Diggers of 1935",Weimann-Toy,2000-05-01,4,973,195
+46,"Red Psalm (Még kér a nép)",Kub-Kassulke,1994-12-02,2,139,39
+47,"Weekend (a.k.a. Le Week-end) (Week End)",Bauch-Blanda,2011-05-16,1,700,165
+48,"Aimée & Jaguar",Rolfson-Pfeffer,2016-12-28,1,6,174
+49,"No Looking Back",Stehr-Hessel,1989-08-17,3,416,44
+50,"I Have Found It (Kandukondain Kandukondain)","Pouros, Mante and Beer",2005-01-30,6,21,190
+51,"Century of the Self, The",Dickens-Adams,1987-05-30,2,229,199
+52,Michael,"Stokes, Feeney and Blick",1990-01-30,1,774,24
+53,Hercules,"Bernier Inc",2000-02-17,4,110,156
+54,"Marilena de la P7","Schulist, Nienow and Klein",2016-04-18,6,688,16
+55,"Men Cry Bullets","Baumbach LLC",2020-08-01,2,384,28
+56,Moordwijven,Walter-Bode,1987-08-17,3,100,39
+57,"Home from the Hill","Fritsch, Rau and O'Hara",2005-05-20,3,139,56
+58,"Maria's Lovers","Swaniawski, Bauch and Emmerich",2010-03-19,6,375,150
+59,"Class of 1999","Douglas Inc",1996-02-29,1,37,70
+60,"The Woman on Pier 13","Auer Inc",2011-06-25,6,789,234
+61,"Ask the Dust","Marvin, Grimes and Bode",2003-07-13,6,760,181
+62,"Straits of Love and Hate, The (Aien kyo)","Weissnat, Kertzmann and Stoltenberg",1991-05-16,1,793,18
+63,"Business, The","Boyer, Breitenberg and Bartoletti",2014-04-28,4,962,65
+64,"Match, The",Rolfson-Leannon,2010-08-25,3,873,86
+65,"Ecstasy (Éxtasis)",Hilpert-Reilly,2017-07-09,2,736,220
+66,"Romeo Must Die","Rippin and Sons",2004-02-23,5,127,189
+67,"Four Days in July","Bahringer, Kerluke and O'Conner",2016-02-13,5,865,179
+68,Lucy,"Upton and Sons",2000-06-01,6,77,225
+69,Crisis,Kilback-Hettinger,2007-09-26,4,944,80
+70,"Dolly and Her Lover (Räpsy ja Dolly eli Pariisi odottaa)","Blanda, Kshlerin and Jakubowski",2003-05-21,3,970,191
+71,"Santa Clause, The","Stoltenberg and Sons",2014-01-07,6,620,249
+72,"Time of the Gypsies (Dom za vesanje)","Gleason and Sons",1987-10-21,1,511,89
+73,"Castle Keep","Wolff, Swift and Grady",2019-08-27,1,40,87
+74,"Redes (Fishermen's Nets) (Wave, The)","Wiza LLC",2001-05-02,1,984,226
+75,"Mister Buddwing",Lakin-Lowe,2014-01-27,1,90,145
+76,"Manhattan Baby",Legros-Blick,2022-10-14,4,916,58
+77,"Double Hour, The (La doppia ora)",Berge-Ruecker,1986-10-25,1,679,42
+78,"Nicht mein Tag","Russel, Wolf and Bergstrom",2012-04-27,1,9,150
+79,"Travels with My Aunt","Bednar and Sons",2001-04-17,6,481,45
+80,"Chain Letter",Block-Armstrong,2005-05-23,6,182,35
+81,Lucky,"Hilll Inc",1991-04-29,2,789,16
+82,"Chemical Brothers: Don't Think, The",Bernier-Koelpin,1990-10-11,3,516,190
+83,"Zero Dark Thirty","Cruickshank Group",2003-12-10,1,625,75
+84,"Reel Rock 8 ",Kuhn-Hickle,2013-04-09,1,399,143
+85,"G.I. Joe: Retaliation","Berge and Sons",1986-07-16,5,148,187
+86,"Boxcar Bertha",Herman-Haley,1992-01-24,2,877,206
+87,"Color of Pomegranates, The (Sayat Nova)","Grady Inc",2005-04-09,4,79,111
+88,"Last Seduction, The","Moore LLC",1989-11-04,6,137,137
+89,"Time for Drunken Horses, A (Zamani barayé masti asbha)","Hettinger LLC",2000-03-31,4,87,115
+90,"Princess and the Goblin, The",Gislason-Braun,2005-08-01,3,224,90
+91,"Voyage of the Damned","Doyle, Conroy and Kihn",1987-12-19,5,482,164
+92,"Sometime in August (Mitte Ende August)",Mohr-Reilly,1997-12-20,1,317,80
+93,"Hitcher, The","Ferry Inc",2022-03-22,5,889,8
+94,"Hellsinki (Rööperi)",Kohler-Strosin,1992-11-07,3,298,178
+95,"Accidents Happen","Halvorson, Bayer and Corwin",1996-06-30,3,232,18
+96,"Aries Spears: Hollywood, Look I'm Smiling","Kuhn Inc",1987-04-04,6,853,22
+97,"Bright Young Things","Wisoky, Satterfield and White",2000-09-15,6,520,146
+98,"Stranger on the Prowl (Imbarco a mezzanotte)","Osinski and Sons",2001-09-04,2,799,136
+99,"Method to the Madness of Jerry Lewis",Paucek-O'Reilly,2006-12-16,2,886,24
+100,2012,"Steuber Inc",1993-08-26,3,4,42
+101,"Sebastian Maniscalco: What's Wrong with People?",Stracke-Altenwerth,2016-10-31,3,780,149
+102,"Wrestling Queens","Moore, Daniel and Gottlieb",2009-11-14,3,148,183
+103,"3 Strikes","Miller and Sons",1988-04-03,4,410,178
+104,"Decline of the American Empire, The (Déclin de l'empire américain, Le)","Watsica, Bins and Hagenes",1987-10-16,4,823,159
+105,"Paleface, The","O'Kon, Flatley and Larkin",1996-10-06,4,106,114
+106,"The Possession of Michael King","Boehm, Hodkiewicz and Dickinson",2009-06-04,5,484,44
+107,"Circles (Krugovi)",Lueilwitz-Beatty,1985-10-04,2,620,68
+108,"Holy Man, The (Mahapurush)",Kozey-Koelpin,2017-05-23,4,362,216
+109,"Ocean Heaven ","Lindgren, Hintz and Schulist",2009-08-29,2,402,6
+110,"Naked Man, The",Langworth-Bradtke,1997-09-20,1,658,244
+111,"Bastards (Les salauds)","Feil LLC",2019-09-15,6,693,107
+112,Pizzas,"Fadel, Borer and Hintz",2006-05-24,1,537,244
+113,"Temptation of St. Tony, The (Püha Tõnu kiusamine)","Bins, Funk and Hahn",1994-03-03,2,643,193
+114,"Tango & Cash","Herman and Sons",2015-09-03,5,340,249
+115,"Out Cold","Carter Inc",2013-01-28,4,559,168
+116,"Twisted Nerve",Schuppe-McClure,2009-10-26,5,116,154
+117,"Apostle Peter and The Last Supper","Wilkinson and Sons",2008-03-13,4,703,128
+118,"Pixar Story, The","Moore LLC",1987-02-26,6,93,149
+119,Kazaam,"Bernier Inc",1997-12-02,4,512,135
+120,"Inbetweeners Movie, The","Predovic, Corkery and Weissnat",2009-09-11,4,182,225
+121,"Times and Winds (Bes vakit)","Kassulke LLC",1993-01-04,1,946,244
+122,"Rollo and the Woods Sprite (Rölli ja metsänhenki)","Heathcote, Wuckert and Kshlerin",1998-06-09,6,601,128
+123,"In a Dark Place","Fay, Flatley and Rowe",2007-01-22,4,36,91
+124,"Friends, The (Les Amis)",Aufderhar-Hills,1989-11-02,4,613,160
+125,"Rouva presidentti","Deckow, Hintz and White",1988-03-21,6,68,23
+126,Baxter,"Stamm Inc",2000-08-24,5,35,65
+127,"IMAX: Coral Reef Adventure","Wolf Group",2003-06-23,3,235,222
+128,"Death of a Salesman","Littel Inc",1993-06-01,3,131,53
+129,"Face (Visage)",Bergstrom-Dickinson,2016-09-27,4,458,76
+130,"El Escarabajo de Oro","Denesik, O'Kon and Goldner",2007-02-17,4,335,92
+131,"Second Civil War, The","Lind, Abernathy and Johnston",2010-07-15,6,719,179
+132,"Legend of Hell House, The","Moore LLC",1998-07-20,6,803,235
+133,"Heart Is Deceitful Above All Things, The",Stroman-Robel,1988-02-04,4,818,200
+134,"My Sons (Musuko)","Conroy, Willms and Torp",2012-04-30,1,120,33
+135,"Absolute Beginners","Muller LLC",1985-06-06,3,220,242
+136,"Patrik Age 1.5 (Patrik 1,5)","Muller, Fisher and Lesch",1993-09-30,5,976,50
+137,Concussion,"Glover and Sons",2022-01-09,1,998,117
+138,"Chelsea on the Rocks","Terry, Ledner and Stoltenberg",2006-06-20,3,135,182
+139,Restraint,Schulist-Krajcik,1985-08-05,1,248,42
+140,"Some Like It Hot",Bernier-Dicki,2009-11-30,5,319,138
+141,"Citizen X",Kilback-Stark,1991-04-24,1,129,74
+142,"Open Grave",Walsh-Welch,1987-08-29,4,892,35
+143,"Curse of the Demon (Night of the Demon)","McDermott, Kshlerin and Nitzsche",2002-11-04,2,147,119
+144,"Parting Glances",Homenick-Kovacek,2009-01-20,1,599,151
+145,"No Looking Back","Doyle Group",2023-08-14,2,956,245
+146,"Voyage to the Beginning of the World (Viagem ao Princípio do Mundo)",Balistreri-Hayes,1988-07-16,3,845,39
+147,"First Men in the Moon","Jenkins, Glover and Lindgren",1986-11-26,6,461,42
+148,"Harmful Insect (Gaichu)",Ondricka-Kihn,2012-02-09,5,961,165
+149,"Cartoon All-Stars to the Rescue","Tremblay and Sons",1988-04-23,5,203,244
+150,"Flintstone Kids' Just Say No Special, The","Gerlach LLC",2002-12-24,4,68,42
+151,"Le printemps, l'automne et l'amour","Stanton, Wyman and Prosacco",2001-06-25,5,690,135
+152,"Empire of the Ants",Cassin-Okuneva,2007-02-27,4,270,3
+153,"Breaktime, The (Zang-e Tafrih) (Recess)","Jacobi, Schultz and Sanford",1989-02-13,1,809,36
+154,"Audrey Rose","Moore, Orn and Kuhic",2014-06-25,6,814,154
+155,"Speed Zone! (a.k.a. Cannonball Run III)",Donnelly-Koss,1999-09-06,2,487,94
+156,"American Buffalo","Metz, Mills and Jaskolski",1999-12-17,3,679,106
+157,"Blood and Wine (Blood & Wine)","Lynch, Rolfson and Runte",2010-12-18,3,978,52
+158,"Wonder Man","Ruecker, Schmitt and Weber",2009-06-04,6,509,93
+159,"Possession of David O'Reilly, The ","Hilpert LLC",2000-07-07,2,261,89
+160,"Girls, Les",Reichel-Kessler,2006-02-06,1,378,207
+161,"Des gens qui s'embrassent",Terry-Crona,2005-09-18,2,627,5
+162,"Party, The (Boum, La)","Lang, Anderson and Hintz",2007-04-10,4,699,161
+163,"Moon 44","Maggio LLC",1996-08-30,2,799,158
+164,"Price of Glory","Bruen and Sons",1990-05-06,1,434,33
+165,"Report to the Commissioner","Kulas Group",1993-12-11,1,602,234
+166,"City of Joy",Beahan-Sawayn,1985-10-03,6,706,228
+167,Venom,"Feeney, Hermann and Gleason",1994-02-10,5,383,108
+168,"Night of the Demons","Brown, Medhurst and Gorczany",1994-10-20,4,456,66
+169,"Zatoichi and the Chess Expert (Zatôichi Jigoku tabi) (Zatôichi 12)","Wilderman, Mraz and Blick",1992-05-21,5,216,5
+170,"Canciones de amor en Lolita's Club","Armstrong Inc",1990-02-02,5,870,108
+171,"Lady in Cement","Schamberger and Sons",1996-06-13,6,292,142
+172,"Thief of Paris, The (Le voleur)","Schulist, Waters and Hoppe",2010-07-11,1,319,151
+173,"Pat and Mike","Herzog, Turcotte and Keeling",2002-05-22,3,388,231
+174,"Grant Morrison: Talking with Gods",Bogan-Rippin,2019-11-04,5,53,27
+175,P2,Gorczany-Schoen,1992-06-01,3,770,76
+176,"United States of Leland, The","Mills, Hagenes and Franecki",2002-10-26,1,97,4
+177,"And God Created Woman (Et Dieu... créa la femme)","Zboncak and Sons",1997-04-18,3,319,215
+178,"This Christmas","Satterfield, Rolfson and Veum",2010-06-25,5,714,71
+179,"House II: The Second Story",Donnelly-Sawayn,1998-03-14,2,767,212
+180,"Brink of Life (Nära livet)",Mertz-Skiles,1987-01-16,5,37,21
+181,"Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto)","Hilll, Brekke and Macejkovic",1996-12-16,3,910,108
+182,"Dan in Real Life","Cassin, Stiedemann and DuBuque",2023-03-19,5,57,151
+183,Luther,"Hane and Sons",2017-11-05,1,515,239
+184,Presto,"Bernier, Johnston and Haag",1994-03-29,3,68,124
+185,"Wolverine, The","Rutherford and Sons",1995-11-19,5,711,20
+186,"Patema Inverted","Thompson, Simonis and Glover",1987-05-22,5,776,31
+187,War,Stanton-Crist,2014-02-07,3,425,4
+188,"Antonia's Line (Antonia)","Auer Group",1991-11-18,1,996,187
+189,"Chorus Line, A","O'Reilly Group",2016-01-07,5,280,102
+190,"Killer at Large",Ullrich-Schimmel,2008-06-17,5,664,61
+191,"Christmas Party, The (Joulubileet)","Hermann, Lueilwitz and Langworth",1987-06-23,5,130,94
+192,"Warriors, The",Kreiger-Muller,2005-05-06,5,358,72
+193,Chillers,"Lang, Orn and Champlin",2010-06-19,2,390,89
+194,"Race for Your Life, Charlie Brown","Boehm, Fahey and Welch",2000-01-26,4,705,168
+195,"Blood Beach",White-Kilback,2017-03-20,2,974,95
+196,"Mikado, The","Kemmer and Sons",2020-08-13,3,690,238
+197,"Day After, The","Jaskolski, Toy and Lesch",2008-02-06,3,610,113
+198,"Promise, The (Wu ji)","Heidenreich and Sons",1992-03-02,6,554,176
+199,"Touch of Class, A",Johnston-Prohaska,2022-08-17,1,961,89
+200,"Neighbor, The","Hudson Group",1999-10-19,6,251,24
+201,"Usual Suspects, The","Kozey, Cremin and Breitenberg",1985-03-09,4,359,133
+202,Touchback,"Deckow Inc",2000-02-09,2,436,56
+203,"Jetsons: The Movie","Spinka, Rath and Beer",2003-07-06,1,109,210
+204,"They Shoot Horses, Don't They?",Nader-DuBuque,2014-05-27,1,542,127
+205,"Magnum Force",Smitham-Cole,2010-06-10,5,136,147
+206,"Abigail's Party","Balistreri LLC",1988-12-27,3,750,102
+207,"Captain EO",Gibson-Heaney,2014-07-26,5,105,203
+208,"Someone to Watch Over Me","Goldner, Howe and Schuppe",2016-09-18,4,857,30
+209,R,Balistreri-Schumm,1994-08-25,4,877,32
+210,"Collision Course","Swaniawski, Abernathy and Bradtke",1989-03-05,5,466,121
+211,Leila,"Langworth Group",1996-08-17,6,288,117
+212,"Short Cuts","Padberg, Treutel and Hand",2015-06-05,2,850,70
+213,"Secret of Santa Vittoria, The","Kling, Wunsch and Prosacco",1991-02-15,2,331,103
+214,Stacy,"Russel Inc",2002-02-07,4,345,152
+215,Resistance,"Rath Group",1991-04-23,4,310,203
+216,"Timecrimes (Cronocrímenes, Los)",Botsford-O'Kon,2001-07-08,3,142,198
+217,"One Way Passage","Tremblay Group",2016-04-26,4,824,12
+218,"My New Gun",Marvin-Renner,1988-02-21,1,56,39
+219,"Palo Alto",Huel-Cassin,2000-04-23,5,292,201
+220,"Office Killer","Fisher, Jenkins and Langworth",2011-04-17,1,176,176
+221,"Dead Men Tell","Schinner LLC",2005-10-30,1,607,156
+222,Beaufort,Maggio-Wintheiser,2019-12-17,1,745,57
+223,"Oranges, The","Kuhn Inc",1985-12-12,6,673,176
+224,"Last Voyage, The",Welch-Windler,2013-05-30,1,822,218
+225,Mediterraneo,"Keeling, Rogahn and Rogahn",1993-03-10,4,566,110
+226,Recount,"Heaney, Cassin and Hermiston",2021-05-16,6,3,156
+227,"Operation Crossbow","Friesen and Sons",2023-03-09,1,609,124
+228,"Food of the Gods II",Bogisich-Abernathy,2006-04-03,6,546,113
+229,"Where the Heart Is","Green Group",2017-12-12,1,462,152
+230,"Another Man's Poison","O'Reilly, Murazik and Langworth",2014-01-17,4,454,191
+231,"Art of War, The",Ryan-Kshlerin,2008-07-27,5,391,46
+232,"Last Rites of Joe May, The",Schroeder-Brown,2020-12-22,3,488,106
+233,"Dead Man's Walk",Crona-Kuvalis,2007-12-10,1,347,105
+234,Shadowboxer,Hand-Smith,2002-10-26,5,742,202
+235,"Porco Rosso (Crimson Pig) (Kurenai no buta)",Schultz-Predovic,2013-10-10,2,226,1
+236,Rio,"Hayes and Sons",2023-01-09,5,748,144
+237,"Adventures of Priscilla, Queen of the Desert, The","Russel, Ortiz and Wisoky",1997-11-19,3,855,146
+238,"Ong-Bak 3: The Final Battle (Ong Bak 3)","Quitzon, Mertz and Schuster",2014-12-23,4,655,191
+239,"Shoulder Arms",Skiles-Lang,2002-03-04,3,50,191
+240,"Bat, The",Doyle-Conroy,1989-05-13,6,673,80
+241,"Lonesome Dove","Beatty, Rolfson and Botsford",1994-09-18,6,543,129
+242,"Man of the Century","Pfannerstill and Sons",1986-01-15,3,279,172
+243,"Good Wife, The",Wisozk-Pagac,1991-04-26,3,671,237
+244,"Night at the Museum",Lang-Carter,1997-03-30,3,267,57
+245,"Knights of Badassdom","Rau, McCullough and Romaguera",2000-10-17,1,853,224
+246,"Macbeth (a.k.a. Tragedy of Macbeth, The)","Kub Inc",1999-03-28,5,187,147
+247,"Bear's Kiss","Blick, Collins and Grady",2015-10-28,2,73,178
+248,Zachariah,"Reinger LLC",2001-07-31,4,878,92
+249,Koch,Little-Frami,2011-06-09,2,39,160
+250,"Frozen, The","Kessler Group",2019-12-07,2,451,3
+251,"Cosmic Psychos: Blokes You Can Trust","Macejkovic, Kuvalis and Batz",2014-12-27,2,802,182
+252,"Red Cliff (Chi bi)","Casper Group",1990-12-20,2,634,249
+253,"Damsel in Distress, A",Mertz-Von,2014-04-05,5,63,222
+254,"Barnyard: The Original Party Animals","Ledner Group",2010-10-28,5,827,85
+255,"Cloud-Capped Star, The (Meghe Dhaka Tara)",Bergnaum-Trantow,2001-06-02,1,153,127
+256,"Shadow Boxers","Gibson, Lang and Gleichner",2010-04-24,3,603,144
+257,"Keep the River on Your Right: A Modern Cannibal Tale","Yost, Klein and Koss",2015-07-30,5,579,127
+258,Orlando,"Tremblay, Zulauf and Deckow",1991-05-06,2,631,18
+259,"Mother, Jugs & Speed",Rosenbaum-Mueller,1996-07-02,1,740,170
+260,"For a Woman (Pour une femme)",Kuhic-Parisian,2016-10-10,5,617,48
+261,"Working Girl",Hodkiewicz-Haag,2003-12-02,5,1000,206
+262,"Tyler Perry's The Family That Preys","Kunze, Price and Sawayn",2010-04-24,5,59,73
+263,"Descendants, The","Morissette, Crist and Rosenbaum",1988-02-23,3,900,177
+264,Stoker,Renner-Braun,2000-06-05,5,611,80
+265,"City on Fire (Lung fu fong wan)","Prohaska and Sons",2004-05-31,4,429,220
+266,"Stranger by the Lake (L'inconnu du lac)",Ratke-Kessler,2022-08-15,2,531,63
+267,Katatsumori,"Carroll Group",2012-08-27,2,313,126
+268,"Stanley & Iris",Cartwright-Mertz,1997-09-25,2,970,196
+269,"Gagarin: First in Space","Kulas LLC",2009-05-02,5,338,91
+270,Brake,"Hand, Bartoletti and Wintheiser",2021-10-01,2,946,81
+271,Deadline,"Hagenes and Sons",2017-06-16,6,838,194
+272,"Day a Pig Fell Into the Well, The (Daijiga umule pajinnal)",Stanton-Schuppe,2019-07-04,5,70,20
+273,"Souls for Sale","Durgan LLC",2002-02-28,4,800,151
+274,"Shark Tale",Batz-Bechtelar,1988-12-19,2,914,145
+275,"Camera Buff (Amator)",Schiller-Baumbach,2022-02-26,2,692,243
+276,"Blood Feast","Osinski, Kerluke and Little",2007-07-02,1,524,68
+277,"Let Fury Have the Hour","Konopelski and Sons",2009-08-24,2,639,44
+278,"Triangle (Tie saam gok)","Wisozk, Feil and Schroeder",2017-01-08,3,103,40
+279,"Shaolin Temple 3: Martial Arts of Shaolin (Nan bei Shao Lin) (Martial Arts of Shaolin)","Marks Inc",2000-04-28,4,689,221
+280,"The Flower","Lynch, Runolfsdottir and Kemmer",2000-11-26,5,33,173
+281,"Five Weeks in a Balloon",Boyer-Schowalter,2000-11-02,5,581,134
+282,"Mysterious Skin","Brekke Group",2007-07-14,3,301,196
+283,"Third Man, The","Glover, Runte and Streich",2014-09-23,1,893,108
+284,"Godzilla vs. Mothra (Mosura tai Gojira)","Schmidt, Swaniawski and Donnelly",2008-07-20,1,955,86
+285,"That Darn Cat!","Ernser Inc",1992-07-29,4,669,52
+286,"Phantom of the Opera, The","Parisian, Connelly and Kessler",1997-02-05,4,975,246
+287,"The Loft","Goldner, D'Amore and Hills",2013-03-04,5,28,144
+288,"Harvard Beats Yale 29-29","Parisian and Sons",2002-04-09,1,437,75
+289,"Vampire Journals",Renner-Ruecker,1990-02-09,2,860,130
+290,"Stargate: Continuum","Towne and Sons",2015-11-15,4,447,10
+291,1,Koss-Lakin,1992-07-14,2,117,60
+292,"My Afternoons with Margueritte (La tête en friche)","Russel and Sons",1999-04-15,1,221,211
+293,Imagine,"Rosenbaum, Purdy and Robel",1999-05-28,5,183,172
+294,"Story of Me, The (O contador de histórias)",Wiegand-Ledner,1986-08-15,5,227,48
+295,"Coming Home (Gui lai)","Rohan, Streich and Gusikowski",2014-03-15,2,333,210
+296,"Magic Magic","Huels, Goodwin and Kling",2000-07-18,3,45,186
+297,Wrong,Abernathy-Stanton,1992-01-25,1,181,139
+298,"Black Cadillac","Tillman, Hills and Schimmel",2006-08-02,4,799,229
+299,"Mount St. Elias",Schaden-Reichert,2006-08-28,4,953,163
+300,"Man at Bath (Homme au bain)","Botsford Group",2008-04-22,4,145,208
+301,"Black Ice (Musta jää)","Hilll, Hyatt and Kuhic",2019-03-14,4,664,108
+302,November,"Hettinger and Sons",2010-02-16,1,383,23
+303,"Return, The (Vozvrashcheniye)",Cronin-Wyman,2010-02-21,2,210,114
+304,"Body of Evidence","Koss and Sons",1992-03-15,5,530,217
+305,"Daddy Long Legs","Daugherty, Hackett and DuBuque",1990-11-15,3,694,108
+306,Paparazzi,"Schinner, Reynolds and Streich",2021-10-19,1,417,108
+307,"My Science Project",Bogisich-Harris,2009-10-15,2,820,213
+308,Eulogy,Franecki-Brown,2012-08-22,4,713,94
+309,"A Flintstones Christmas Carol","Quitzon Group",2019-12-14,2,174,32
+310,Cialo,"Jones, Hickle and Balistreri",1989-11-03,5,575,231
+311,United,Dietrich-Klocko,2022-04-08,6,806,176
+312,"Bat, The",Conn-Lockman,1996-04-29,3,907,58
+313,"Matriarch, The (Lieksa!)","McClure, Boyle and Heidenreich",2009-07-30,1,633,120
+314,"Chant of Jimmy Blacksmith, The","Kshlerin, Rice and Bergnaum",1989-12-26,1,776,65
+315,"Murderer Lives at Number 21, The (L'assassin habite... au 21)","Romaguera and Sons",2009-03-28,5,271,132
+316,"Yesterday, Today and Tomorrow (Ieri, oggi, domani)",Bode-Hermiston,1997-08-28,4,573,80
+317,"Igby Goes Down","Balistreri, Hilll and Connelly",1995-05-29,5,659,39
+318,Aurora,"Williamson, Stroman and Morissette",2022-02-25,6,643,208
+319,Them!,"Larson Group",2023-05-18,3,902,165
+320,"Loose Change 9/11: An American Coup","Orn and Sons",1992-12-09,6,55,18
+321,"And So It Goes","Marks, Corkery and Deckow",2006-08-10,5,812,39
+322,"Mrs. Miniver","Lakin, Bogisich and Ernser",2008-08-25,2,791,65
+323,"Paris by Night",Reilly-Heaney,2016-10-06,2,917,242
+324,Metroland,"Cartwright, Mertz and Hand",2023-05-29,5,592,31
+325,"Silent Hill","Willms and Sons",1988-04-01,2,659,197
+326,"Ed's Next Move","Osinski Inc",1999-10-23,3,266,85
+327,"Aries Spears: Hollywood, Look I'm Smiling","Kautzer, Shanahan and Rosenbaum",2010-08-08,4,746,206
+328,"Sinners and Saints",Reinger-Zulauf,2017-06-14,5,559,162
+329,"Dead Fury","Nolan, Smith and Larkin",2014-01-22,1,910,118
+330,"White Sands",Romaguera-Ankunding,2021-01-24,1,497,67
+331,"Bastards of the Party",Schoen-Trantow,2014-11-14,4,826,246
+332,"Party Girl",Grady-Sauer,2023-04-16,2,424,113
+333,"Pursuit to Algiers","Heller, Goyette and Kirlin",1990-04-24,2,521,220
+334,"Wild Hunt, The","Senger LLC",1996-05-13,6,419,4
+335,"Made for Each Other","Weissnat and Sons",2013-01-20,4,490,27
+336,"East Side Story",Mosciski-Little,1996-01-23,1,797,225
+337,"Pursuit of D.B. Cooper, The (a.k.a. Pursuit)","Anderson LLC",1987-06-10,3,594,124
+338,"The Referees","Berge Group",1987-12-10,1,764,133
+339,"According to Greta",Raynor-Baumbach,1997-06-13,1,864,222
+340,"Getting Back to Abnormal",O'Connell-Huels,2019-07-01,1,937,144
+341,"Teacher's Pet","Breitenberg, Marvin and Mayert",1992-06-01,2,970,180
+342,"Bless the Child",Flatley-Marquardt,1988-06-14,1,816,172
+343,"Loaded Weapon 1 (National Lampoon's Loaded Weapon 1)","Veum, Wyman and Berge",2015-05-17,5,870,200
+344,"McHale's Navy",Kshlerin-Bergstrom,1996-12-14,2,165,204
+345,"Song Is Born, A",Erdman-Legros,2013-08-02,1,845,79
+346,"Straight Story, The","Fay Inc",2004-12-24,3,113,1
+347,"Rookie of the Year",Leannon-Ferry,2022-10-24,3,348,72
+348,"At Sword's Point","McCullough Inc",1996-07-21,2,206,75
+349,"Support Your Local Gunfighter","Anderson, Hammes and Hudson",2013-07-18,2,850,247
+350,"Richard Pryor Here and Now","MacGyver, Roob and Russel",1987-01-20,3,504,2
+351,Sekirei,Cronin-Flatley,1991-10-29,6,279,71
+352,"Paperboy, The",Okuneva-Morissette,1999-02-11,4,848,107
+353,"Puff, Puff, Pass","Bode Inc",2017-03-15,5,747,190
+354,"Hannah Free","Beatty and Sons",2012-07-22,3,639,238
+355,"Blood on Satan's Claw (a.k.a. Satan's Skin)","Morar Group",2005-04-10,4,861,203
+356,Dillinger,McDermott-Considine,2003-07-30,4,240,52
+357,"Who Killed Vincent Chin?","Thompson Inc",1997-11-15,6,90,148
+358,O,Monahan-Paucek,2012-12-20,5,375,127
+359,"Festival in Cannes","Berge, Rempel and Roberts",1987-01-21,5,523,232
+360,Zardoz,"Skiles Inc",2002-03-14,4,352,160
+361,"In the Hands of the Gods",Stamm-Goyette,1997-10-13,3,482,70
+362,"Runner Runner","Harvey Inc",1994-10-29,5,431,69
+363,"O Auto da Compadecida (Dog's Will, A)","Mann Inc",2020-12-01,2,379,85
+364,"Hit List, The",Kerluke-Kreiger,2016-09-02,6,22,172
+365,"Trigun: Badlands Rumble","Kling Inc",1989-10-27,3,27,218
+366,"Tin Toy",Schuster-Nicolas,2023-01-14,5,326,179
+367,"Bowling for Columbine",Beier-Zemlak,2012-09-20,1,259,64
+368,Bluebeard,Heaney-Leffler,1991-03-04,5,121,128
+369,"What's the Worst That Could Happen?",Fisher-Kuhic,2010-05-21,3,390,158
+370,"Wrath of the Titans",Willms-Zulauf,2020-06-29,5,621,49
+371,"I Met Him in Paris","Leffler Inc",2019-03-16,5,607,163
+372,"Last Vegas",Hegmann-Botsford,2023-12-10,1,681,59
+373,"Long Weekend","Ratke Group",2020-02-26,6,927,10
+374,"Atragon (Kaitei Gunkan)","Farrell, Wilkinson and Hammes",2014-03-05,5,696,180
+375,"Enemies: A Love Story","Reinger Group",2006-08-03,4,603,85
+376,"A Master Builder","Shanahan, Jacobi and Dare",2016-07-22,1,910,160
+377,"Once Upon a Time in China III (Wong Fei-hung tsi sam: Siwong tsangba)","Kuphal, Deckow and Durgan",2020-10-09,1,447,86
+378,"Hole in My Heart, A (Hål i mitt hjärta, Ett)","Roob and Sons",1998-06-15,2,381,71
+379,"Ixcanul Volcano","Anderson, Stark and Swaniawski",1993-12-13,1,582,22
+380,"Dead Rising: Watchtower",Swift-Bauch,1987-07-14,4,842,143
+381,"Ronde, La","Cruickshank, Goldner and West",1990-10-22,6,328,212
+382,"Last Valley, The","Baumbach, Schimmel and Wisozk",2009-12-09,2,833,147
+383,"Last Run",Bradtke-Fahey,1987-02-13,1,332,117
+384,"Bat Whispers, The","Borer Inc",2018-01-20,6,76,159
+385,"Paper Man",Bartoletti-Abbott,2013-04-23,4,968,32
+386,"Passionate Friends, The (a.k.a. One Woman's Story)","Denesik Inc",1992-06-26,2,189,112
+387,"Great Ecstasy of Woodcarver Steiner, The (Große Ekstase des Bildschnitzers Steiner, Die)","Marquardt, McKenzie and Mertz",2013-03-06,6,162,24
+388,"End of Love, The","Deckow, Conn and Swaniawski",2019-09-17,4,247,196
+389,"Factory Girl","Effertz Inc",2005-08-24,6,58,149
+390,"L!fe Happens",Muller-Glover,2020-01-05,6,607,77
+391,"Big Stan","Greenholt, Torphy and Lehner",2022-10-01,2,782,18
+392,"Lost in Siberia (Ausgerechnet Sibirien)","Ebert LLC",2008-02-13,2,726,212
+393,Traveller,Hahn-Hauck,1995-01-25,5,402,152
+394,"Bachelor Party","Labadie LLC",2022-05-12,4,355,27
+395,Pageant,"Bailey, Littel and Brekke",1988-08-05,5,212,59
+396,"Too Late Blues",Connelly-Cole,2010-10-28,1,84,94
+397,"Unfaithfully Yours",Kuhn-Jakubowski,2008-11-09,2,907,96
+398,"Robinson Crusoe (Daniel Defoe's Robinson Crusoe)",Brown-Lowe,2004-11-23,2,655,218
+399,"Adam Had Four Sons",Rowe-West,2022-04-01,2,967,60
+400,"The Hearse","Ledner, Grant and Kovacek",2016-10-02,5,84,231
+401,"Snow White","Daniel LLC",1987-09-05,3,47,89
+402,"Hammer of the Gods",Cassin-Keeling,1997-06-08,1,193,240
+403,"The Secret of Convict Lake","Williamson LLC",1990-03-17,4,464,44
+404,Lambada,"Kutch Inc",2013-03-10,4,86,143
+405,"Fighter in the Wind","Connelly Inc",2019-01-06,1,955,215
+406,"Cosmic Monster, The",Mitchell-Feil,1985-11-10,1,159,176
+407,"Matrix Reloaded, The","Boehm, Marquardt and Cole",2008-12-20,5,53,161
+408,"Pee-wee's Big Adventure",Borer-Lang,2017-10-29,5,718,247
+409,"Spies Like Us",Borer-Barrows,2010-05-15,5,13,74
+410,"Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut)","Friesen and Sons",2003-03-07,5,337,192
+411,"Fear, The",Sporer-Emmerich,2019-05-29,5,987,147
+412,"Other Side of Bollywood, The",Aufderhar-Goyette,1992-07-07,6,699,22
+413,Elles,"Swaniawski and Sons",1986-08-18,5,324,188
+414,Five,"Haley Inc",2017-01-22,6,460,66
+415,"Young Master, The (Shi di chu ma)","Dietrich Inc",2017-11-03,2,746,12
+416,"Chimes at Midnight (Campanadas a medianoche)","Friesen Group",1989-03-15,1,142,95
+417,"Raising Arizona","Okuneva, Cummings and Emmerich",2016-09-12,5,429,93
+418,"Lot Like Love, A","Keebler Group",1999-04-15,5,327,34
+419,"All the Boys Love Mandy Lane","Reinger, Champlin and Moore",2021-06-13,2,622,38
+420,"Sweetest Thing, The","Mertz and Sons",2013-08-08,1,696,134
+421,"Operation 'Y' & Other Shurik's Adventures","Runolfsson, Walter and Kub",2017-10-15,1,981,170
+422,"The Fox & the Child","Cruickshank and Sons",1986-04-03,4,386,99
+423,"Bitter Creek","Wintheiser Group",2008-04-21,3,37,241
+424,"Save the Last Dance",Abernathy-Hammes,2005-03-25,1,68,129
+425,"Playing by Heart",Daniel-Rowe,2007-02-14,3,731,208
+426,"Joan of Paris","Cummings, Dietrich and Champlin",1986-04-03,4,666,1
+427,Exit,"Senger Inc",1997-09-28,2,794,7
+428,"Handsome Harry",Buckridge-Fahey,1993-03-16,4,134,22
+429,"White Chicks",Deckow-Wiegand,2023-08-05,5,112,124
+430,"Central Park",Yost-Schmeler,2009-11-24,6,838,130
+431,"Hector and the Search for Happiness","Pfeffer Inc",2000-04-20,4,894,224
+432,Up!,Quitzon-Wintheiser,2009-06-15,4,237,21
+433,"Up the River",Fritsch-Bailey,2000-11-27,2,784,20
+434,"Bullfighter and the Lady","Ziemann LLC",2005-05-02,3,814,72
+435,"Wassup Rockers","Spinka, Kohler and Bernier",1996-07-07,2,764,237
+436,"BBOY for LIFE","Maggio and Sons",2006-05-12,2,935,85
+437,"Blood Diamond",D'Amore-McKenzie,1999-03-08,1,112,87
+438,"Entertaining Angels: The Dorothy Day Story","Schaefer, Baumbach and Fisher",2015-02-23,4,973,250
+439,"Sweet November","Hand and Sons",1991-02-06,5,827,101
+440,"Daffy Duck's Movie: Fantastic Island","Beer, Keeling and Davis",2003-06-16,3,921,123
+441,"Justice League: War",Jacobi-Lockman,2021-06-28,1,430,245
+442,"All the Pretty Horses",Keeling-Kassulke,2012-08-27,2,52,54
+443,"Fantasy Mission Force (Mi ni te gong dui)",Olson-Bailey,1986-03-03,2,870,180
+444,Motorama,"Blanda Inc",1985-11-06,4,443,185
+445,"As Long as You've Got Your Health (Tant qu'on a la santé)","Daniel, Dare and Botsford",1995-02-01,5,325,56
+446,Punchline,"Flatley, Langworth and Yost",1985-08-03,4,717,20
+447,"Koumiko Mystery, The (Mystère Koumiko, Le)","DuBuque Group",2005-05-26,5,945,229
+448,"Hell Up in Harlem","Hauck, Heidenreich and Treutel",2018-08-10,6,772,146
+449,"The Magnificent Trio",Smith-McDermott,2004-01-08,2,282,227
+450,"Observe and Report","Will and Sons",2005-05-05,3,402,151
+451,"Constant Nymph, The",Rempel-Rippin,2001-05-21,2,965,245
+452,"End of the Game (Der Richter und sein Henker)",Bogan-D'Amore,2014-11-30,6,898,80
+453,"Human Planet","Lakin Inc",2012-07-02,1,652,243
+454,"Screaming Skull, The","Oberbrunner Inc",2003-02-10,3,241,200
+455,"Girl, The","Becker, Tromp and Turner",2017-05-06,3,104,103
+456,"Dog Run","Gibson and Sons",2016-12-13,4,520,137
+457,"Chang: A Drama of the Wilderness","Roob and Sons",1992-12-19,6,291,234
+458,"Mr. Woodcock","Block, Cronin and Mitchell",1988-01-28,1,799,210
+459,"Mambo Kings, The","Hermann, Nikolaus and Altenwerth",1991-12-03,6,504,119
+460,Choke,"Sauer, Tromp and Okuneva",2004-06-21,3,715,218
+461,"Thief Who Came to Dinner, The",Schuppe-Runte,1996-12-29,1,558,164
+462,"Call Me Savage","Graham, Little and Heller",2005-11-25,1,11,46
+463,"Last Frontier, The","Huels and Sons",2002-09-01,1,951,39
+464,"Children of the Corn V: Fields of Terror","Schaden, Hudson and Leuschke",1989-05-28,5,644,97
+465,"Mr. Moto Takes a Chance","Gulgowski, Romaguera and Yost",2002-01-09,5,760,61
+466,"The Voices","Ruecker Inc",2012-09-11,1,920,54
+467,"Three Strangers",Volkman-Schimmel,2015-01-22,6,855,145
+468,"Pleasure of Being Robbed, The","Miller, Barton and Satterfield",1994-06-11,5,368,32
+469,"Les Lyonnais","Bradtke LLC",2015-05-17,4,309,111
+470,"Q & A","Kshlerin Group",2004-02-03,6,548,7
+471,"Good Thief, The","Green Group",1999-06-29,1,820,54
+472,"Why Do Fools Fall In Love?","Lebsack Inc",2007-07-16,5,995,184
+473,"Armour of God II: Operation Condor (Operation Condor) (Fei ying gai wak)","Abshire and Sons",2015-04-08,6,533,56
+474,"Pirates! Band of Misfits, The","Labadie Inc",2020-10-13,3,588,53
+475,"Love Me No More (Deux jours à tuer)","Steuber Inc",1988-10-21,4,204,195
+476,"Commitments, The",Murray-Lang,2021-03-05,1,171,63
+477,"Bourne Legacy, The","Schroeder, Thiel and Wunsch",2022-06-17,1,447,10
+478,"Dark at the Top of the Stairs, The","Quigley Inc",2008-10-23,4,452,242
+479,"Beck - Öga för öga","Parker, Leuschke and Dach",2002-07-25,6,761,11
+480,"Education for Death","Skiles and Sons",2015-12-03,3,290,174
+481,"Tree, The","Leannon and Sons",2015-11-24,4,290,18
+482,Chiko,"Breitenberg, Lindgren and Block",1986-09-06,3,507,121
+483,"Wristcutters: A Love Story","Emard, Moen and Beahan",2016-05-25,4,209,243
+484,"A Spell to Ward Off the Darkness","Fahey, Keebler and Jacobi",2014-08-09,2,198,140
+485,"Saving Face",Mertz-Larkin,2002-05-03,3,183,141
+486,"Die Hard: With a Vengeance","Goodwin, Johnson and Herzog",2010-09-21,6,103,7
+487,"Report to the Commissioner","Zulauf Inc",1986-04-15,6,693,11
+488,"Night in Heaven, A",Jakubowski-Hammes,1997-04-16,3,490,101
+489,"Heartbreak Kid, The",Flatley-Runte,2009-02-07,2,337,137
+490,"Gravedancers, The",McDermott-Halvorson,1996-03-28,6,346,173
+491,Liliom,"Toy Group",2014-07-21,1,982,156
+492,"Blob, The","Collins and Sons",2000-07-03,2,232,12
+493,"Gold Rush, The","Pouros Inc",2021-08-28,5,544,188
+494,Tombstone,"Kris, Denesik and Grady",2015-11-04,3,863,126
+495,"Colors of the Mountain, The (Los colores de la montaña)","Harvey, Schumm and Veum",2017-10-01,2,732,136
+496,Sublime,"Collier and Sons",1989-06-05,1,980,96
+497,"Ricky Gervais Live 2: Politics",Kemmer-Konopelski,2006-03-08,4,261,149
+498,"Vampire Girl vs. Frankenstein Girl (Kyûketsu Shôjo tai Shôjo Furanken)","Cole and Sons",2001-02-02,5,384,60
+499,Lascars,"Lemke LLC",2013-10-05,4,297,157
+500,Saved!,"Watsica and Sons",2004-08-08,2,939,211
+501,"Arrival of a Train, The","Koelpin, Nitzsche and Hills",1987-08-29,6,518,164
+502,Memento,Upton-Watsica,2002-10-20,4,377,135
+503,"Adult Camp","Boyer LLC",2021-10-23,1,459,125
+504,"For Ellen","Crona, Gerhold and Rice",2007-12-13,2,836,84
+505,"Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage)",Russel-Lang,2023-12-18,5,937,65
+506,"Young Thugs: Nostalgia (Kishiwada shônen gurentai: Bôkyô)",Heaney-Murazik,2008-05-03,4,107,160
+507,"Basket Case 3: The Progeny","Frami and Sons",2013-03-26,2,873,10
+508,"Night Strangler, The","Lueilwitz, Roberts and Roberts",2004-12-28,3,83,7
+509,"More American Graffiti",Doyle-Miller,2001-09-04,5,546,85
+510,"Attack from Space","Buckridge and Sons",2017-08-10,5,72,161
+511,"Children of Huang Shi, The","Haley, Rowe and Runolfsson",2008-07-18,6,481,189
+512,"My Prairie Home","McKenzie Inc",2009-02-16,3,278,128
+513,Wieners,Kirlin-Lang,2013-10-17,6,275,194
+514,"Son of Kong, The","Johns, Koelpin and Grimes",2016-04-25,6,967,70
+515,"Ski Party","Grimes, Kohler and Raynor",2018-04-10,2,726,113
+516,"Wedding Belles","Brekke Group",2011-04-14,3,735,124
+517,Hideaway,"Orn, Hettinger and Flatley",1986-06-06,4,401,203
+518,"Gorgeous Hussy, The","Rutherford, Konopelski and Beier",2019-12-03,5,105,40
+519,"Hysteria: The Def Leppard Story",Kilback-O'Reilly,2016-10-09,6,203,247
+520,"The Message",Erdman-Jast,2017-12-14,5,254,200
+521,"One in a Million: The Ron LeFlore Story",Lang-Christiansen,1995-03-07,4,315,196
+522,"Caine Mutiny Court-Martial, The","Satterfield LLC",2017-12-05,1,977,92
+523,"Film Noir: Bringing Darkness to Light","Larson Inc",2006-09-16,5,378,155
+524,"Trust Me","Mayer, Paucek and Pfannerstill",2004-04-08,3,85,127
+525,Maidentrip,"Weissnat Group",2016-01-19,6,433,89
+526,"Ladies They Talk About","Kovacek and Sons",2015-09-21,6,74,177
+527,"All This, and Heaven Too","Konopelski Inc",2007-02-15,6,52,80
+528,"Cold Sweat (De la part des copains)","Feil and Sons",1988-08-05,2,928,196
+529,"Mad Dogs & Englishmen","Hermiston LLC",2014-05-22,5,589,102
+530,"Police Academy 3: Back in Training","Tromp, Beier and Lehner",2004-10-24,2,381,35
+531,"Forget me not","Abbott LLC",1999-09-06,6,931,72
+532,"Attack of the 50 Ft. Woman","Osinski, Bernhard and Anderson",2010-04-06,4,989,118
+533,"Street with No Name, The","Bode Inc",2002-09-28,2,817,167
+534,"I Am You (In Her Skin)",Wyman-Dooley,2000-09-08,5,329,229
+535,"Beauty Is Embarrassing","Raynor, Schmeler and Weimann",2009-11-03,4,932,58
+536,"Changing Sides (De l'autre côté du lit)","Pacocha LLC",2008-10-04,3,809,35
+537,"Great White Silence, The",Anderson-Toy,2001-05-28,5,811,89
+538,"Greatest Game Ever Played, The",Braun-Koepp,2007-12-02,4,840,37
+539,"After School Special (a.k.a. Barely Legal)",Pouros-Treutel,2011-05-06,3,199,170
+540,"Heavy Metal in Baghdad","Collier and Sons",2000-09-12,5,120,86
+541,"Damn Yankees!","Lakin, Lowe and Mayert",2013-03-16,3,17,39
+542,"Dirty Work",Cormier-Koch,2006-08-05,2,960,244
+543,"Space Milkshake",Becker-Moore,1986-02-23,5,146,208
+544,"Thank You for Smoking",Jacobi-Farrell,2022-05-28,6,87,115
+545,"Parallel Sons",Kling-Fay,1997-07-22,5,438,21
+546,"Scalphunters, The","Wuckert and Sons",2023-03-01,2,397,3
+547,Goyokin,Macejkovic-Cormier,1997-06-10,5,130,67
+548,"Left Behind: The Movie","Strosin, Padberg and Emard",1998-05-05,2,658,111
+549,"Human Condition I, The (Ningen no joken I)","Hoeger, Bins and Okuneva",2013-09-05,5,475,68
+550,Matinée,Abshire-Miller,1989-01-28,4,593,235
+551,"Futurama: Bender's Game","Jerde Group",2016-06-22,3,703,180
+552,"The DUFF","Olson, O'Connell and Ortiz",1998-10-01,3,619,148
+553,"Counterfeiters, The (Die Fälscher)",Stroman-Jakubowski,1987-08-07,3,494,113
+554,"Adult World","Ferry, Price and Klein",1995-09-24,3,317,238
+555,"Loss of a Teardrop Diamond, The","Predovic, Konopelski and Gulgowski",2022-06-12,1,810,21
+556,"Hello I Must Be Going",Beahan-Kuhlman,2020-09-12,2,719,97
+557,Goon,Thompson-Hirthe,2009-11-02,3,864,28
+558,"Stranger in Town, A",Dickinson-Roberts,2008-05-19,3,206,219
+559,Hamlet,Ledner-Murazik,2011-07-10,6,679,154
+560,"Noi the Albino (Nói albinói)","Gislason Group",2013-01-01,2,255,20
+561,"Great Yokai War, The (Yôkai daisensô)","Collins, Nikolaus and Kris",2003-05-07,1,546,185
+562,"People I Know","Jaskolski and Sons",2007-08-03,5,394,196
+563,"Burning, The","Swaniawski, Hoppe and Cummerata",1991-09-05,5,518,125
+564,Holes,"Sanford, Hessel and Streich",1996-07-16,6,942,243
+565,"Pope Joan (Die Päpstin)",Cole-Koepp,2009-07-28,1,847,54
+566,"God of Cookery (Sik san)","Gibson, Rodriguez and Dooley",1993-01-14,2,430,173
+567,"Holding, The","Cartwright Inc",2006-03-05,6,476,116
+568,"Mother's Day","Ziemann, Walker and Price",1988-06-28,4,852,135
+569,"Truth About Charlie, The","Block and Sons",1999-10-24,1,280,242
+570,"Cat Ballou",Lebsack-Durgan,2018-10-06,3,853,28
+571,"What's Love Got to Do with It?","Rutherford LLC",2012-08-30,1,526,30
+572,"Magic Town","Lindgren Group",2021-12-17,2,854,172
+573,"Mount Head (Atama yama)",Cassin-Schumm,2014-10-13,4,833,175
+574,"Girl Shy","Fadel, Metz and Abshire",2010-05-14,1,29,219
+575,"Of Time and the City",Leannon-Jones,1996-08-16,1,531,30
+576,"Rebirth of Mothra II",Auer-Reilly,1994-03-04,1,173,136
+577,"Rich, Young and Pretty","Bahringer Group",2010-05-22,5,224,153
+578,"Puppet Master vs. Demonic Toys (Puppet Master 9)","Satterfield, Shields and Hettinger",2007-01-26,4,663,242
+579,"Clonus Horror, The","Pouros, Dickens and Gusikowski",2022-07-07,1,345,78
+580,"Crime Lords of Tokyo","Raynor, Purdy and Welch",1985-04-08,5,277,129
+581,"Thunderbolt and Lightfoot","Gutmann Inc",1994-04-16,4,497,138
+582,"Appaloosa, The","Dooley, Bechtelar and Romaguera",2003-08-01,6,710,77
+583,"Westerner, The","Jaskolski, Graham and Yundt",1999-08-24,4,553,59
+584,"American Violet","Harris LLC",1988-07-16,5,457,122
+585,"Little Hamlet",Nicolas-Daniel,2020-05-16,4,807,69
+586,"Final Destination","Doyle, Kuvalis and Schaden",2023-09-28,6,909,52
+587,"Getting Any? (Minnâ-yatteruka!)","Collier, Koepp and Nienow",1993-03-12,3,136,105
+588,"Silence, The (Tystnaden)","Deckow Inc",2023-12-23,4,703,185
+589,"Lotta 2: Lotta flyttar hemifrån",O'Hara-Collins,2022-12-18,4,911,66
+590,Gunless,"Hermiston and Sons",2002-08-02,5,945,168
+591,"Into Great Silence (Die große Stille)","Heller, Lesch and Kovacek",1989-05-21,4,746,230
+592,Raajneeti,Purdy-Pacocha,2017-01-16,4,582,98
+593,"Last of Robin Hood, The","Ruecker and Sons",1989-11-22,4,667,65
+594,"Humboldt County",Renner-Langworth,2000-10-24,4,624,233
+595,"Murder, My Sweet","Deckow Group",2016-01-06,1,282,38
+596,Manic,O'Conner-Hackett,1993-07-02,6,120,101
+597,"Ju-on: The Beginning of the End (Ju-on: Owari no hajimari)","Lowe and Sons",2012-01-09,5,460,72
+598,"Barnacle Bill","Hackett, Jerde and Bogisich",1999-08-05,1,626,196
+599,"Santa Claus","Emmerich LLC",1996-06-12,1,250,150
+600,Wilderness,Hegmann-Gulgowski,1985-04-21,5,713,216
+601,"Snow Queen",Wolff-Paucek,2009-06-10,3,690,7
+602,"Girl on the Train, The (La fille du RER)",Morar-Torphy,2018-03-11,1,392,165
+603,Vamps,Blick-Littel,1994-11-21,1,357,16
+604,"In Your Hands","Cruickshank LLC",1990-03-14,1,913,161
+605,"Four Seasons (Seasons, The) (Vremena goda)","Schinner LLC",2009-10-10,2,533,97
+606,"Condo Painting",Brekke-O'Hara,2008-07-28,3,262,209
+607,"Manta, Manta",Herman-Schneider,1992-01-26,6,401,203
+608,"Kiss of Death","Reilly, Labadie and Langworth",1994-07-02,6,564,125
+609,"Pépé le Moko","Schroeder Inc",2005-03-20,4,18,188
+610,"Thin Ice",Wunsch-Sporer,2013-04-30,6,634,95
+611,"Summer School",Strosin-Hills,2009-03-03,3,927,162
+612,"Prom Night III: The Last Kiss","Bartoletti, Fisher and Macejkovic",1985-09-13,2,102,153
+613,"Cruel Romance, A (Zhestokij Romans)","Kertzmann, Dooley and Aufderhar",1989-04-14,2,873,144
+614,"Scott Pilgrim vs. the World",D'Amore-Roob,1997-01-28,4,731,130
+615,"The Lost Prince","Cormier LLC",2016-01-22,4,362,229
+616,"Training Day",Ziemann-Herzog,1989-06-05,6,774,243
+617,"This Is the Night","Lehner, Lesch and Toy",2005-12-16,2,903,125
+618,"Sky Crawlers, The (Sukai kurora)","Spinka and Sons",2017-09-05,3,485,139
+619,"Ax, The (couperet, Le)","Luettgen Inc",2000-02-27,1,86,104
+620,"Leafie, a Hen Into the Wild (Madangeul Naon Amtak)","Gislason Inc",1996-08-30,3,249,235
+621,"Of Love and Shadows",Friesen-Hills,2022-12-25,5,387,250
+622,"Mushrooming (Seenelkäik)","Cruickshank, Wiza and Hyatt",2002-09-21,3,290,194
+623,"Ed Wood","Pollich, Roberts and Haley",2014-09-12,2,986,213
+624,Lonesome,"Koelpin LLC",2006-09-03,2,463,26
+625,"Who's Harry Crumb?","Jakubowski and Sons",2015-10-31,6,432,5
+626,"Gardens of the Night","Hane and Sons",2017-11-28,1,382,13
+627,"Living Death","Rath, Goodwin and Adams",2002-11-16,4,411,158
+628,"Get Thrashed: The Story of Thrash Metal",Hyatt-Hoeger,1997-05-19,1,705,126
+629,"Petting Zoo","Abernathy Inc",1994-10-27,6,178,52
+630,"Destination Gobi","Wunsch LLC",1997-07-12,6,528,244
+631,"Sol ","Fritsch, Spencer and Connelly",2003-04-10,5,179,246
+632,Pulp,"Mayer, Witting and Turner",1992-06-11,6,832,37
+633,"Requiem for a Heavyweight","Pacocha, Mayer and Jacobi",2000-11-22,6,582,232
+634,"Torch Song","McGlynn, Hammes and Morissette",2004-09-25,4,530,228
+635,"The Land Before Time VII: The Stone of Cold Fire","Hermiston Group",2001-07-31,6,582,105
+636,"Gods and Generals","Will and Sons",2003-07-10,5,451,41
+637,"Lars and the Real Girl","Ernser Group",2003-07-30,4,595,184
+638,"Cops and Robbersons",Gerhold-Tillman,2003-03-12,1,141,59
+639,"Shut Up & Sing","Schuster, Bins and Bartell",1987-03-15,3,475,173
+640,"Monsters vs. Aliens",Schmeler-Powlowski,1991-02-17,4,4,225
+641,"Army of Darkness","Sauer and Sons",1995-11-04,1,886,47
+642,"Jungle2Jungle (a.k.a. Jungle 2 Jungle)","Brown, Schmitt and Crona",2015-07-08,1,789,207
+643,"Civil War, The","Breitenberg, VonRueden and Moore",1989-08-05,6,302,164
+644,Gloria,"Effertz and Sons",1999-01-06,4,422,144
+645,"Clandestine Childhood","Williamson, Yundt and Feil",2023-11-15,1,768,113
+646,"Eyes of the Mothman","Lemke, Kozey and Altenwerth",1999-07-27,6,326,237
+647,Karla,"Durgan and Sons",2019-09-22,3,595,41
+648,Kauwboy,Schneider-Kemmer,2004-11-11,6,494,149
+649,"Peach Thief, The (Kradetzat na praskovi)","Dare Inc",2020-08-03,4,262,131
+650,"Brothers: The Return","Predovic, Wilderman and Hahn",2017-11-18,6,205,6
+651,"F for Fake (Vérités et mensonges)","Erdman, Green and Kiehn",1990-07-19,1,607,193
+652,"Critical Condition","Dibbert and Sons",2019-09-19,5,185,189
+653,"English Surgeon, The","Windler Inc",1988-01-30,5,145,148
+654,"On the Beach","Shields, Labadie and Kozey",1986-04-14,5,875,240
+655,"Single Man, A","Smitham, Murphy and Bailey",2012-04-13,5,719,198
+656,"Darktown Strutters (Get Down and Boogie)",Blick-Boehm,2002-10-26,2,255,144
+657,"Spaced Invaders","Haley Inc",1992-03-06,1,739,67
+658,Deadline,"Senger Inc",1985-07-31,5,806,84
+659,Marat/Sade,Morissette-Russel,2001-04-10,1,843,18
+660,"Scorching Winds (Garm Hava) (Garam Hawa)","Halvorson LLC",1986-01-20,1,115,117
+661,Carmen,Satterfield-Torphy,2009-10-26,3,773,35
+662,"Run, Man, Run! (Corri uomo corri)","Jones, Murazik and Wisoky",2012-08-21,5,913,5
+663,Dumbo,"Kris, Veum and Effertz",2005-07-16,5,85,43
+664,"Terror in a Texas Town","Haag and Sons",2017-02-15,2,679,229
+665,"Five People You Meet in Heaven, The",Lind-Denesik,2007-01-08,6,906,21
+666,"Doctor Bull",Emmerich-Jaskolski,1989-12-22,4,360,176
+667,"Before I Self Destruct","Oberbrunner and Sons",2000-12-17,2,598,137
+668,"Baader Meinhof Komplex, Der",Kling-Mills,1995-05-26,5,823,205
+669,May,Williamson-Erdman,2005-09-21,2,437,170
+670,"Bon Voyage",Bartell-Maggio,1987-05-26,5,55,77
+671,Equinox,Douglas-Rutherford,1995-10-31,1,299,54
+672,"Riders of the Purple Sage","Ernser Inc",2000-09-09,6,752,73
+673,Beautiful,"Connelly Group",2012-12-11,4,884,216
+674,"Damsel in Distress, A",Moore-Howe,2002-05-19,3,843,187
+675,"Bedrooms & Hallways","Hodkiewicz, Bashirian and Miller",2001-10-07,1,216,99
+676,"Little Fauss and Big Halsy","Dooley, VonRueden and Bayer",1998-12-14,3,584,122
+677,"What Happened, Miss Simone?","Ryan Inc",1999-04-25,4,787,165
+678,"Crocodile Dundee II","Rice Inc",1986-07-20,4,956,232
+679,"Siberian Education (Educazione siberiana)","Lang, Daniel and Bednar",2017-09-14,6,785,114
+680,"Sita Sings the Blues","Stiedemann, Hilll and Orn",1989-09-16,2,984,104
+681,"On a Clear Day","Welch, Lakin and Kling",2003-05-14,6,629,20
+682,"Hitcher, The","Swaniawski and Sons",2007-11-19,4,322,182
+683,"Involuntary (De ofrivilliga)","Dare, Nolan and Schoen",1995-09-15,4,819,158
+684,"Return to Homs, The","Runte, White and Predovic",1985-02-05,5,35,103
+685,Acacia,"Kilback and Sons",2014-12-01,1,872,34
+686,"12 Storeys (Shier lou)","Runte, Towne and Reichert",2000-12-29,5,556,127
+687,"Zeitgeist: The Movie","McCullough Group",2018-11-14,6,368,224
+688,"Night and Day (Bam gua nat)","McGlynn, Feeney and Stracke",1989-04-08,6,552,104
+689,Mustalaishurmaaja,"McDermott, Sporer and Schmidt",1994-11-13,5,837,52
+690,"More Than Honey","Nienow, Kirlin and Little",1989-08-27,5,73,231
+691,"Mulholland Falls","Botsford, Stracke and Gusikowski",2014-10-15,1,971,75
+692,"Hall Pass",Smith-Fisher,2012-10-11,4,997,73
+693,"Smell of Camphor, Fragrance of Jasmine (Booye kafoor, atre yas)","Collins Inc",2012-10-19,5,720,4
+694,"Boys of Baraka, The","Emard, Johnston and Williamson",2017-10-12,2,619,241
+695,"Librarian: Return to King Solomon's Mines, The",Ankunding-Mraz,2000-05-22,5,903,126
+696,"976-EVIL II","Botsford, Lind and McKenzie",1987-02-02,5,791,41
+697,"21 Hours at Munich","Waelchi LLC",2019-10-11,3,426,37
+698,"Bikini Carwash Company, The","Schmitt, Thompson and Grant",2004-05-23,6,899,16
+699,Manito,"Kemmer, Toy and Skiles",1989-11-28,5,514,105
+700,"Live Free or Die Hard",Boyle-Harber,2009-10-28,3,80,78
+701,"Harvard Beats Yale 29-29",Stroman-Purdy,1995-09-17,4,64,110
+702,"Yank in the R.A.F., A","Bogan and Sons",2018-11-04,5,847,85
+703,"The Halloween That Almost Wasn't",Romaguera-Brown,2007-05-26,1,656,222
+704,"Eye for an Eye, An (Silmä silmästä)","Herzog, Fisher and Lind",1996-10-15,2,395,81
+705,"Dickson Greeting",Renner-Toy,2015-05-07,2,743,51
+706,"Brand Upon the Brain!","Langworth LLC",1985-01-04,1,468,212
+707,"Chang: A Drama of the Wilderness",Larkin-Stanton,2000-09-19,5,132,140
+708,"Howling V: The Rebirth","Bartoletti and Sons",1987-08-09,3,670,230
+709,"Last Holiday","Turcotte, Rutherford and Beier",2020-12-15,5,239,232
+710,"Man Trouble","Littel, Heidenreich and Schaden",2000-09-22,4,185,134
+711,Spun,Batz-Zieme,1990-11-02,3,593,5
+712,"Hucksters, The","Rippin, Collier and Kihn",2014-03-01,4,482,209
+713,"How to Succeed in Business Without Really Trying",Thompson-Carroll,1990-12-09,1,930,35
+714,"Cedar Rapids",Ryan-Emmerich,1988-04-16,1,449,165
+715,"Joan Rivers: A Piece of Work",Schultz-Schmitt,1990-02-02,3,144,172
+716,"Cold Fish (Tsumetai nettaigyo)",Reichel-Daugherty,2022-06-29,2,290,14
+717,"Come September","Kshlerin, Conn and Heller",1986-04-13,6,133,244
+718,"Point Men, The",Mayer-Kozey,1999-07-26,6,849,66
+719,"Day the Sun Turned Cold, The (Tianguo niezi)","Hermann Group",2018-08-21,1,844,190
+720,"Norm MacDonald: Me Doing Standup","Cartwright Inc",2020-03-19,1,621,217
+721,"Lucky Texan, The","Wilderman Group",2010-05-13,1,501,76
+722,Harvey,Prosacco-Denesik,2020-07-21,4,386,37
+723,Iris,Barton-Ernser,1991-07-09,1,659,62
+724,"Seize the Day","Waelchi, Dibbert and Stokes",1994-09-11,1,122,163
+725,"They Came Back (Les Revenants)",Schiller-Keeling,2003-01-25,2,447,35
+726,"Messengers 2: The Scarecrow",Goodwin-Doyle,1988-08-26,2,176,44
+727,"Haunted World of Edward D. Wood Jr., The","Johnson Inc",1993-02-04,2,574,231
+728,"Cool World, The",Crona-Stehr,2004-04-12,3,229,121
+729,"Number Seventeen (a.k.a. Number 17)",Kohler-Legros,1988-04-15,5,474,216
+730,Poltergeist,"Smith Group",2000-12-09,2,287,79
+731,Instrument,Johnson-Weimann,2016-07-03,1,824,243
+732,"Broken Embraces (Los abrazos rotos)",Weimann-Bahringer,2007-01-28,1,287,118
+733,"My Giant",Considine-Champlin,2002-10-06,6,188,2
+734,"Princess of Montpensier, The (La princesse de Montpensier)","Anderson, Kutch and Volkman",2011-08-14,3,736,13
+735,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",Bergnaum-Lemke,2012-03-14,4,71,118
+736,"Zatoichi and the Chest of Gold (Zatôichi senryô-kubi) (Zatôichi 6)",Feeney-Morissette,1988-07-20,3,613,107
+737,"American Revolutionary: The Evolution of Grace Lee Boggs",Walsh-Kassulke,1988-07-04,6,1000,216
+738,"Richard Pryor: Live in Concert","Swaniawski LLC",2017-04-16,6,3,164
+739,House,"Halvorson, Mohr and Conroy",2014-06-11,4,946,205
+740,"Family Band: The Cowsills Story ",Kuhn-Swift,2023-07-26,4,797,214
+741,"Codependent Lesbian Space Alien Seeks Same",King-Lakin,1999-01-09,6,557,231
+742,Encore,"Gorczany, Macejkovic and Kertzmann",2011-01-12,6,530,84
+743,"Crocodile (Ag-o)","Jacobs Group",2017-03-15,6,358,216
+744,"Devil's in the Details, The","Bayer, Nader and Tillman",2012-07-10,2,39,109
+745,Gia,"Boyer, Douglas and Thiel",2019-10-30,5,258,35
+746,"3-Iron (Bin-jip)","Brown Inc",2014-10-22,6,745,247
+747,"Summer House","Parisian, Kilback and Schuppe",1996-08-29,5,68,214
+748,"22 Bullets (L'immortel)","Koss Inc",1985-12-24,4,546,130
+749,Fever,"Wisozk LLC",2006-03-18,3,894,28
+750,"Adventures of Baron Munchausen, The",Schowalter-Howell,1996-01-05,6,735,178
+751,"10 MPH","O'Reilly, Hane and Homenick",2001-03-28,5,926,186
+752,"Pride of the Yankees, The",Romaguera-Hand,2009-11-30,5,195,164
+753,"Radiohead: Meeting People Is Easy",Bayer-Metz,1998-09-21,5,966,148
+754,Swoon,Jerde-Roberts,2002-02-04,1,397,52
+755,"Pink Saris",Frami-Goldner,2003-12-28,5,13,144
+756,Calvary,"Howell, Denesik and Thiel",1993-10-13,1,299,234
+757,"Tough Ones, The (Häjyt)","Herzog Group",2020-08-09,3,851,102
+758,"Great King, The (Der große König)",Rodriguez-Kerluke,2004-01-07,3,492,154
+759,"Red Scorpion",Stehr-Nienow,1997-03-13,2,116,99
+760,"Adrift in Tokyo (Tenten)","Donnelly and Sons",2006-04-24,3,750,122
+761,"Baby Mama","Kohler, Ankunding and Ritchie",2012-04-29,1,255,147
+762,Greedy,Bruen-Goldner,2001-08-24,3,130,26
+763,"The ABCs of Death 2",Hane-Kemmer,1999-07-13,5,836,153
+764,"Kummeli Goldrush (Kummeli kultakuume)","Hamill Group",1985-10-12,4,101,28
+765,"From Beyond the Grave (Creatures)","Conroy, Smith and Renner",2022-10-31,5,824,13
+766,"7 Boxes (7 cajas)",Dickens-Romaguera,2002-11-15,4,116,134
+767,Anaconda,"Stehr, Funk and Zulauf",2003-05-06,6,558,169
+768,"Movie 43",Krajcik-Ferry,2017-09-29,4,6,195
+769,"He Loves Me... He Loves Me Not (À la folie... pas du tout)",Braun-Flatley,2019-06-04,4,161,16
+770,"Last Summer","Koepp, Brakus and Schneider",1995-08-23,2,137,107
+771,"13 Fighting Men","Abshire Group",2023-10-12,6,273,103
+772,Memento,"Abshire Group",2001-05-29,4,242,152
+773,"What Price Hollywood?",Ziemann-Champlin,2003-12-13,6,135,152
+774,"Venus and Serena","Dach and Sons",1988-05-16,2,410,96
+775,"Outbound (Periferic)","Denesik, Pollich and Farrell",2014-06-27,3,601,245
+776,"From Dusk Till Dawn 3: The Hangman's Daughter","Sawayn and Sons",2017-05-16,4,506,239
+777,"Barnens ö","Conn, Osinski and Smith",1996-07-30,3,319,142
+778,"Time of Roses (Ruusujen aika)","Fay, Marquardt and Gleason",1991-12-17,4,907,29
+779,"Comic Book Confidential",Sauer-Spinka,1996-07-15,5,552,120
+780,"Young Sherlock Holmes","Wilderman LLC",1991-01-19,5,275,44
+781,Sphere,"Ziemann, Veum and Heathcote",2007-03-08,2,444,128
+782,"Wave, The (Welle, Die)","Gislason, Sporer and Bergstrom",2000-04-01,5,660,229
+783,"Sister (L'enfant d'en haut)","Harber Inc",2013-06-30,3,240,172
+784,Whiplash,"Lesch and Sons",1992-07-12,2,353,216
+785,Anamorph,"Turner Inc",2021-01-26,5,658,175
+786,"City of God (Cidade de Deus)",Heller-O'Kon,2003-07-01,1,588,120
+787,"Glass Menagerie, The","Thompson, Predovic and Hessel",1985-09-08,1,910,79
+788,"Change of Habit",Murray-Veum,2014-11-14,5,646,128
+789,"My Life as a Dog (Mitt liv som hund)","Vandervort LLC",2013-05-14,4,813,28
+790,"Hunting Party, The","Armstrong and Sons",2019-04-01,1,265,38
+791,McConkey,Bosco-Ward,2019-12-12,6,595,90
+792,"First Power, The","Wilkinson Group",2008-10-07,6,837,133
+793,"Down and Derby","Lebsack, Hudson and Zemlak",2000-02-08,5,921,92
+794,Judex,Jerde-Klein,2010-08-09,2,734,9
+795,"Far Out Man","Jakubowski Group",1987-11-22,5,280,236
+796,"Monty Python and the Holy Grail","Brekke, Windler and Grady",1991-07-04,5,170,220
+797,"People Like Us","Botsford Inc",2015-02-04,3,391,159
+798,"Special Correspondents (Envoyés très spéciaux)","Hand Inc",1991-06-27,3,537,206
+799,"Woman of Antwerp","Collier Inc",2001-09-13,1,294,14
+800,"Carlito's Way","Kling Group",2017-06-28,2,933,131
+801,"Quatermass and the Pit",Harvey-Klein,1986-08-29,6,808,83
+802,"Skin Game","Tremblay and Sons",1990-05-13,2,690,55
+803,Derailed,"Bayer and Sons",2016-08-12,3,19,76
+804,"Pauline at the Beach (Pauline à la Plage)","Kertzmann, King and Ondricka",2007-09-01,2,103,82
+805,"Kiss Kiss Bang Bang",McCullough-Feest,2023-08-27,3,850,153
+806,"Space Chimps",Mayert-Cummings,2007-07-01,5,944,126
+807,"White Banners",Conroy-Heathcote,2022-10-04,1,93,144
+808,"Exit to Eden","Ankunding, Macejkovic and Little",2011-10-08,1,745,188
+809,"Accidental Husband, The",Considine-Mann,1993-01-15,6,464,64
+810,"Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup)",Bayer-Wisozk,1999-04-10,2,468,169
+811,"Come See the Paradise",West-Miller,2012-12-12,4,19,82
+812,"Name for Evil, A","Fahey, Waelchi and Frami",2007-03-21,3,910,121
+813,"Girls Rock!",Kerluke-Predovic,1998-09-14,4,460,96
+814,"FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com)","Tillman, Wolff and Smitham",2022-04-09,1,664,27
+815,"Wooden Man's Bride, The (Yan shen)","Schumm, Hessel and Klocko",2007-08-02,4,662,142
+816,"Boo to You Too! Winnie the Pooh","Konopelski and Sons",2005-01-24,1,418,139
+817,"Wild Side",Leannon-Schimmel,1998-11-22,5,843,12
+818,"Never Ever! (Nigdy w zyciu!)",Hintz-Greenholt,2015-05-04,5,410,75
+819,"I See a Dark Stranger",Green-Kertzmann,2006-10-23,5,733,214
+820,"Our Music (Notre musique)","Ernser, Cummings and Luettgen",1991-11-08,1,737,51
+821,"With Friends Like These...","Carter, Cruickshank and West",1991-08-09,4,136,33
+822,Redbelt,Schiller-Hagenes,2003-08-31,2,410,47
+823,Honeydripper,Denesik-Mertz,2006-05-25,3,599,90
+824,"Farce of the Penguins","Wisozk, Cummings and Murphy",2013-11-15,2,745,226
+825,"36 Crazy Fists (San shi liu mi xing quan)","Roberts, Hettinger and Quitzon",2004-07-01,2,511,63
+826,"Skin I Live In, The (La piel que habito)","Kohler, Carroll and Klein",2013-08-07,2,25,202
+827,"Analyze That",Romaguera-Hand,2016-05-04,3,919,241
+828,"Estomago: A Gastronomic Story","Stoltenberg, Abshire and Treutel",2009-01-10,6,680,191
+829,"Desert of the Tartars, The (Deserto dei Tartari, Il)","Stokes Group",2023-09-29,6,597,90
+830,"Get a Horse!","Block, Padberg and Gulgowski",1989-06-03,1,219,249
+831,"Murder, Inc.",Mosciski-Pacocha,1985-07-28,4,686,105
+832,"Crew, The",Williamson-Ankunding,2002-01-26,3,664,212
+833,"Hunters, The (Jägarna)","Schoen LLC",1995-01-06,5,46,129
+834,Cover-Up,"Klocko, Kirlin and Nienow",2005-04-03,4,622,119
+835,"Let's Kill Ward's Wife",Murphy-Sanford,2001-04-06,3,151,52
+836,"Naked Face, The",Gleichner-Cremin,2001-09-04,1,306,82
+837,"Mr. Saturday Night","Larkin LLC",2011-11-27,2,150,13
+838,"Midnight Movies: From the Margin to the Mainstream","Kuvalis, Jenkins and Walker",1998-03-06,6,884,84
+839,"Fall of the House of Usher, The (chute de la maison Usher, La)","Cormier Group",1999-01-06,2,979,181
+840,"Young Americans, The",Casper-Emard,1996-10-21,2,21,24
+841,"Hester Street",Paucek-Boyle,1996-07-08,1,74,33
+842,"Jack the Bear","Brekke, Rice and Muller",2018-04-16,2,658,27
+843,"Kansas Raiders",Boyle-Wolff,1993-05-28,6,374,40
+844,"Across the Universe","Kerluke Inc",2003-11-16,3,435,12
+845,Persona,"Purdy, Wintheiser and Russel",1997-04-23,2,954,146
+846,"Public Enemy, The","Stehr Inc",1994-02-10,3,896,160
+847,"Final Darkness, The (Buio Omega)",Kirlin-Frami,2009-02-20,5,727,158
+848,"Tyler Perry's Temptation: Confessions of a Marriage Counselor",Brakus-Dietrich,1988-02-04,2,93,212
+849,Careful,"Moore and Sons",2007-08-22,1,376,90
+850,"Nut Job, The","Okuneva, Trantow and Schaden",1987-03-04,3,597,17
+851,"Dragon (Wu Xia)","Fisher Group",2022-05-16,2,301,116
+852,"Beginning of the Great Revival (a.k.a. The Founding of a Party)","Kautzer, Quigley and Franecki",2009-06-10,2,504,13
+853,"Confessions of a Superhero",Hartmann-Wintheiser,1994-07-31,1,618,1
+854,"Who the #$&% is Jackson Pollock?",Bechtelar-Abbott,2015-09-07,5,235,188
+855,Compulsion,"Crooks, Nicolas and Hartmann",2008-07-18,2,872,245
+856,"Almost Man, The (Mer eller mindre mann)","Huel Group",2019-05-04,6,27,59
+857,"Welcome to the Roses (Bienvenue chez les Rozes)","Kautzer LLC",2011-07-09,4,182,46
+858,"Heathcliff: The Movie",Herzog-Hammes,1998-04-27,5,61,249
+859,"Wholly Moses","Balistreri, Denesik and Jast",2022-01-14,3,706,129
+860,"Europeans, The",Krajcik-Hammes,2017-03-30,6,284,102
+861,Kick-Ass,Dietrich-Pfeffer,2014-10-27,4,721,59
+862,Dreamland,"Nicolas, Hessel and Bahringer",2019-09-15,6,710,80
+863,"Hannah Takes the Stairs","Davis, Morar and Casper",2020-10-21,4,27,115
+864,"Bigga Than Ben","Bins, Rice and Braun",2002-07-02,4,427,213
+865,Colors,Spencer-Bernier,2017-04-15,2,195,196
+866,"Dallas 362","Stamm, Collier and Langworth",2021-11-30,4,811,138
+867,"All the Young Men","Bailey Inc",2014-08-16,2,892,3
+868,"The Man Without a Map","Kshlerin, Bogan and Hayes",2018-09-01,6,246,227
+869,"Captains Courageous","Kautzer LLC",1988-12-05,5,783,70
+870,"Sidewalks of New York","White, Nitzsche and Armstrong",2010-08-12,6,270,176
+871,"Lust for Gold","Leannon LLC",1997-06-16,3,298,200
+872,"Katie Tippel (Keetje Tippel)","Nikolaus, Klocko and Klein",2015-01-10,3,728,243
+873,"Praying with Lior","Kozey, Herzog and Cruickshank",2013-07-22,1,372,164
+874,"Bustin' Loose","McLaughlin, Fay and Oberbrunner",2011-11-25,6,948,43
+875,"Atlas Shrugged: Who Is John Galt? (Atlas Shrugged: Part III)","Feeney, Bashirian and Goodwin",2019-11-26,1,543,171
+876,"Day the Earth Stood Still, The",Upton-Roob,1993-02-09,4,935,204
+877,Slither,"Braun Group",1991-05-25,4,843,169
+878,Cruising,"Reichel Group",2006-08-22,1,478,247
+879,"Gorilla, The","Satterfield, Wisoky and Hagenes",2021-10-04,3,283,163
+880,"My Stepmother Is an Alien","Littel, Ward and Klocko",1999-09-15,3,881,1
+881,"Fun with Dick and Jane",Fritsch-Huels,2014-05-26,3,336,19
+882,"Newton Boys, The",Gorczany-Nikolaus,2013-01-27,2,678,205
+883,"Gurren Lagann: Childhood's End (Gekijô ban Tengen toppa guren ragan: Guren hen)","Blick, Parker and Bauch",1985-09-06,4,468,87
+884,"Voyager (Homo Faber)","Hilll, Casper and Parker",2001-10-06,1,503,153
+885,"Il fiore dai petali d'acciaio","Boyle and Sons",1997-08-31,1,107,107
+886,"Number Seventeen (a.k.a. Number 17)","Schinner Inc",2017-04-06,6,972,243
+887,"36 Hours","Jaskolski, Metz and Stoltenberg",2005-02-07,2,643,100
+888,"Love Trap, The",Schamberger-Pouros,2020-05-19,1,42,237
+889,"Harry Potter and the Prisoner of Azkaban","Cruickshank, Lindgren and Botsford",1989-05-20,6,206,26
+890,"She Had to Say Yes","Gutmann, Ryan and Corkery",2008-07-08,3,877,99
+891,Kes,Wilkinson-Sauer,1997-02-07,5,265,59
+892,"...All the Marbles (California Dolls, The)","Friesen, Hahn and Pacocha",2020-10-04,2,201,112
+893,"West of the Divide","Graham LLC",1995-12-06,3,3,220
+894,"Night of the Creeps",Effertz-Reichert,2015-02-03,5,500,17
+895,"Something to Talk About",Beier-Mann,2013-03-04,2,573,38
+896,"Dangerous Minds",Larkin-Barrows,1988-03-21,1,700,56
+897,"Handmaid's Tale, The",Rath-Mante,2006-01-31,6,716,32
+898,"Life Without Dick",Witting-Nader,1985-12-06,1,75,49
+899,"Miss Julie","Franecki, Hayes and McDermott",2006-01-13,4,612,225
+900,"Separate Tables","Osinski, Ernser and Zboncak",2010-03-03,3,842,197
+901,"Dillinger and Capone",Glover-Rippin,2001-01-01,6,207,249
+902,"Hamlet (Gamlet)","Skiles, Nolan and Nitzsche",2021-08-17,2,829,238
+903,"Brussels Business, The","Bogisich, Kulas and Leannon",2012-01-05,4,590,97
+904,"Safe Place, A","Pagac LLC",1993-11-22,3,726,124
+905,"Blood Out","Weber, Hodkiewicz and Lynch",2005-08-31,6,893,121
+906,"Jesus liebt mich",Maggio-White,2016-11-23,1,629,11
+907,Tangled,"Bernhard Inc",2015-02-13,6,769,158
+908,"Erasing David","Kiehn, Wisozk and Jacobson",1985-12-11,2,899,183
+909,"Linda Linda Linda",O'Kon-Raynor,2005-06-29,3,931,122
+910,"Another Stakeout",Blanda-Wilkinson,2023-03-27,2,585,188
+911,"Bride Comes Home, The","Bosco and Sons",2017-09-28,3,706,39
+912,"House of Angels (Änglagård)","Durgan, MacGyver and Sawayn",2019-09-02,4,961,229
+913,Breach,"Hansen, Gislason and Kirlin",2007-06-30,6,831,61
+914,"Rita, Sue and Bob Too!","Reilly and Sons",2020-01-17,5,337,51
+915,"Your Life in 65 (Tu vida en 65')","Cremin, McDermott and Wiza",2004-05-25,4,986,36
+916,"Reclaim Your Brain (Free Rainer)","Prohaska and Sons",2009-07-25,3,378,136
+917,"In Two Minds","McCullough, Larkin and Homenick",2008-08-20,2,678,93
+918,Hamlet,"Casper, Howell and Friesen",2002-09-11,1,127,113
+919,"T-Rex: Back to the Cretaceous","Gutmann, Ernser and Heller",2006-06-04,3,466,114
+920,"Host, The (Gwoemul)","Kozey Inc",2019-03-29,5,168,116
+921,"Man Facing Southeast (Hombre mirando al sudeste)",Mills-Dare,2000-01-21,5,651,49
+922,"Captain Horatio Hornblower R.N.","Johnston, Rempel and Cartwright",1993-02-18,3,828,1
+923,"Counter Investigation (Contre-enquête)","Adams and Sons",2021-09-16,1,973,129
+924,"Moonlight Murder",Wintheiser-Romaguera,1989-03-31,4,246,2
+925,"Angel Face",Fay-Renner,2003-11-18,3,258,137
+926,"Come Live with Me","Jones LLC",2021-09-02,5,558,124
+927,"Kidnapping, Caucasian Style (Kavkazskaya plennitsa)","Rolfson and Sons",2021-12-12,6,626,136
+928,Parasomnia,Fay-Leffler,2006-02-26,1,739,177
+929,"Lazarus Project, The","Swaniawski, Schumm and Corwin",2014-02-12,6,722,3
+930,"Dolores Claiborne",Becker-Aufderhar,2017-04-15,1,212,56
+931,"Fever Pitch","Gutkowski, McClure and Feil",2017-04-15,6,453,227
+932,"Big Girls Don't Cry... They Get Even (Stepkids)",Howell-Sipes,1999-05-31,1,955,139
+933,Katatsumori,"Jacobi Inc",2005-07-05,4,759,217
+934,"Snow Walker, The","Kub, Emmerich and Kassulke",2023-01-18,1,427,141
+935,Forgiven,"Moen, Nitzsche and Corwin",2020-07-21,1,613,8
+936,Ironclads,"Kuvalis, Jenkins and Kilback",2011-01-11,6,793,232
+937,Head,"Brakus Group",2020-06-26,4,396,40
+938,"Flintstones in Viva Rock Vegas, The",Emard-Vandervort,2006-03-20,6,141,15
+939,"King of New York","Olson, Nicolas and Paucek",2020-08-20,6,532,180
+940,"See Here, Private Hargrove",Smitham-Stehr,2018-10-26,4,762,194
+941,"High Fidelity","Greenfelder, Zemlak and Prohaska",1997-10-20,3,15,176
+942,"Stunt Squad","Daugherty, Runolfsson and Lindgren",2014-03-29,2,279,213
+943,"Class, The (Entre les murs)","Stroman Group",2012-11-10,1,824,199
+944,"The Legend of Bloody Jack","Ondricka and Sons",2004-05-19,6,677,139
+945,"Man in the Gray Flannel Suit, The","Toy Inc",2004-08-09,2,588,196
+946,"House of Mirth, The","Kling Group",2004-05-21,4,464,1
+947,"Primary Colors",Miller-Terry,1999-11-07,5,985,173
+948,Trauma,"Conn, Altenwerth and Denesik",2010-03-11,1,257,103
+949,"Jungle Creature: Hugo, The (Jungledyret) (Go Hugo Go)",Mosciski-Wiegand,1989-07-12,6,207,54
+950,"Mall Girls (Galerianki)",Skiles-Price,1990-02-22,2,499,247
+951,"Halloween III: Season of the Witch","Renner, Bednar and Lesch",2017-12-06,2,354,19
+952,"American Dream","Bailey, Lesch and Jakubowski",2010-07-11,2,773,58
+953,"Ballplayer: Pelotero","Abshire and Sons",2012-12-23,4,758,35
+954,Mammuth,"Wunsch and Sons",1993-08-27,2,449,210
+955,"Kiss Kiss Bang Bang",Durgan-Braun,2014-11-01,3,217,71
+956,"Cinderella Man",Hickle-Beier,2008-09-03,2,869,133
+957,"Yo Yo (Yoyo)","Funk, Green and Rolfson",2002-11-28,6,766,183
+958,"Treasure Hunter, The (Ci ling)","O'Connell, Erdman and Herzog",2012-05-03,4,62,215
+959,Kick-Ass,"Schulist Group",1995-03-17,3,855,129
+960,"Blue in the Face","Kutch Inc",1987-03-20,6,223,240
+961,"7 Boxes (7 cajas)","Jaskolski, VonRueden and Okuneva",1985-09-28,1,645,51
+962,"The Face Behind the Mask","Howell and Sons",1996-05-12,2,186,212
+963,"Perfect Fake, A","Huels Inc",1997-07-24,6,93,59
+964,"End of the Affair, The",Sporer-DuBuque,2006-09-13,5,19,86
+965,"Angel Heart","Kub LLC",2000-01-20,6,27,71
+966,"Fame High",Sawayn-Harvey,2004-11-16,2,335,98
+967,"Iron Eagle II","Daniel, Kiehn and McGlynn",2001-02-15,4,942,207
+968,"Up in the Air",Lebsack-Kihn,1987-05-24,5,908,160
+969,"Helen of Troy","Kiehn, Conroy and Herman",2021-12-31,2,846,138
+970,"Gurren Lagann: The Lights in the Sky are Stars (Gekijô ban Tengen toppa guren ragan: Ragan hen)","Hauck Inc",2007-06-03,5,728,188
+971,"35 Up",Daniel-Zulauf,1986-08-25,1,543,69
+972,"I Am Jesus","Quitzon, Abshire and Barrows",2015-06-04,1,54,47
+973,"Curb Dance",Schneider-Borer,2008-08-10,1,70,203
+974,"Summer School","Zemlak, McLaughlin and Watsica",2010-10-30,3,877,120
+975,"Beck - Öga för öga","Schaefer LLC",2005-06-19,1,402,212
+976,"Streets of Laredo","Blick Group",2017-05-16,2,617,246
+977,Whiteout,Schiller-Runte,1998-11-07,6,973,9
+978,"Escape from Fort Bravo","Nicolas, Langworth and Sauer",2012-06-26,4,575,202
+979,Cube,"Feest, Murray and Johnson",1990-12-07,3,943,126
+980,Barricade,"O'Conner, Volkman and Yundt",1985-04-04,6,427,45
+981,"Days Between, The (In den Tag hinein)",Adams-Huels,2014-10-15,2,465,91
+982,"Boys Don't Cry","Hamill, Kovacek and Schumm",2014-01-24,5,423,12
+983,"Men with Brooms",Smitham-Streich,2011-04-05,3,946,107
+984,Champion,Greenfelder-Goodwin,2020-09-01,4,253,122
+985,"The Deep Six","Buckridge Inc",2000-03-04,5,868,44
+986,"Against the Dark",Mueller-Cronin,1986-05-01,2,97,70
+987,"Beautiful Boxer","Corkery, Medhurst and Denesik",2016-01-08,4,173,193
+988,Next,"Turcotte and Sons",1991-06-01,4,711,198
+989,Twixt,Flatley-Ledner,2011-12-10,2,892,206
+990,"Used Cars","Roberts, Dooley and Harris",1988-05-15,3,467,215
+991,"Colt 38 Special Squad","Gleason Group",2011-03-19,1,948,24
+992,"Bang Boom Bang - Ein todsicheres Ding","Kunde LLC",2011-05-17,1,566,53
+993,"Battlestar Galactica: The Plan","Toy LLC",2001-07-25,3,62,79
+994,"God's Little Acre","Fay and Sons",2010-12-14,1,998,13
+995,"Something to Talk About",Greenholt-Ruecker,2016-03-01,3,511,16
+996,"I Love You Phillip Morris","Torphy Group",2000-06-15,1,221,122
+997,"Rosencrantz and Guildenstern Are Undead","Wintheiser, Roob and Christiansen",1995-05-21,1,333,35
+998,Sidestreet,Brakus-Mann,1998-11-03,2,621,108
+999,"Invitation, The (Zaproszenie)","Turcotte and Sons",2007-10-10,3,28,133
+1000,"Pont du Nord, Le","Schinner, Fahey and Russel",2020-02-05,3,976,173

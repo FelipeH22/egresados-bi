@@ -1,0 +1,10 @@
+id_carrera,nombre_carrera,id_departamento
+1,"Ingeniería de Sistemas",2
+2,"Ingeniería de Sistemas y Computación",1
+3,"Ingeniería Industrial",1
+4,"Ciencias Políticas ",3
+5,"Ciencias Políticas ",4
+6,Literatura,5
+7,Biología,6
+8,Biología,7
+9,Matemáticas,8
