@@ -1,3 +1,11 @@
+"""
+ETL File
+
+Extraction from the local MySQL database
+Transformation of the data including tables' joins and aggregations
+Load into BigQuery with a temporary GCS file.
+"""
+
 import os
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
